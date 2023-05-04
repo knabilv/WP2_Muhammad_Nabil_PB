@@ -69,7 +69,7 @@ method="post">
   </td>
   </tr>
   <tr>
-  <th>SKS</th>
+  <th>Agama</th>
   <td>:</td>
   <td>
   <select name="agama" id="agama">

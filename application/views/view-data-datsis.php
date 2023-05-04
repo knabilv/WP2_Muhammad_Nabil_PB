@@ -16,7 +16,7 @@
   </td>
   </tr>
   <tr>
-  <td>Nama MTK</td>
+  <td>Nama Siswa</td>
   <td>:</td>
   <td>
   <?= $nama; ?>
